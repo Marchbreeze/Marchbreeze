@@ -18,7 +18,7 @@
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
 - 33rd SOPT App-Jam `대상`, Android Developer
-- 2024.01 기준 다운로드 수 총 `16000회`, 앱스토어 소셜 분야 `15등` 달성
+- 다운로드 수 총 `16000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
