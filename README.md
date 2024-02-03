@@ -1,11 +1,11 @@
-## 🍀 Marchbreeze
+## 🍀  Marchbreeze
 > 코드에 프로덕트에 대한 애정을 담는 개발자, 김상호입니다.
 
 &#160;➡️&#160; https://marchbreeze.notion.site &#160;⬅️
 
 <br/>
 
-## ✈️ History
+## ✈️  History
 - 🐯 고려대학교 산업경영공학부 제37대 학생회장
 - 🐯 고려대학교 공과대학 제56대 학생회 교육진로국장
 - 🧑🏻‍💻 SOPT 32기 안드로이드 파트 & 운영팀 수료
@@ -13,11 +13,11 @@
 
 <br/>
 
-## ✈️ Projects
+## ✈️  Projects
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
-- 33rd SOPT App-Jam `대상`, Android Developer
+- 32nd SOPT App-Jam `대상`, Android Developer
 - 다운로드 수 총 `16,000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
