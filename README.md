@@ -21,7 +21,7 @@
 - 다운로드 수 총 `18,000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Google Admob`
+- Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Google Admob, ...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
 <br>
@@ -38,5 +38,5 @@
 - 33rd SOPT App-Jam `대상`, Lead Android Developer
 - 앱스토어 여행 분야 `114등` 달성
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK`
+- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, ...`
 - [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
