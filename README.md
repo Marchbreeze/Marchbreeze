@@ -18,14 +18,14 @@
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
 - 32nd SOPT App-Jam `대상`, Android Developer
-- 다운로드 수 총 `20,000회`, 앱스토어 소셜 분야 `15등` 달성
+- 다운로드 수 총 `21,000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Google Admob, ...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WORR:E <br/>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
 <br>
 
 - 33rd SOPT 16-hour Hackathon, Lead Android Developer
