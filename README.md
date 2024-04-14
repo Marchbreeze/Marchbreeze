@@ -5,7 +5,7 @@
 
 <br/>
 
-## ✈️  History
+## ✈️   History
 - 🐯 고려대학교 산업경영공학부 제37대 학생회장
 - 🐯 고려대학교 공과대학 제56대 학생회 교육진로국장
 - 🧑🏻‍💻 SOPT 32기 안드로이드 파트 & 운영팀 수료
@@ -13,7 +13,7 @@
 
 <br/>
 
-## ✈️  4 Released Apps
+## ✈️   4 Released Apps
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
@@ -48,5 +48,5 @@
 <br>
 
 - 등록된 유저 수 총 `80,000명` 의 서비스, Android Developer
-- 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수를 진행한 경험 ✔️
+- 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
 - [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
