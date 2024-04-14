@@ -13,7 +13,7 @@
 
 <br/>
 
-## ✈️  Projects
+## ✈️  4 Released Apps
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
