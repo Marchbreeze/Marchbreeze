@@ -23,7 +23,7 @@
 - 사업자등록 이후, 인앱결제 구현 등을 통해 직접 부딪히며 창업을 진행하는 경험 ✔️
 - 앰플리튜드 분석, VoC 등을 통해 유저의 반응을 확인하며 유저 친화적으로 개발하는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Google Admob, ...`
+- Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Admob, CI/CD...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
 <br>
