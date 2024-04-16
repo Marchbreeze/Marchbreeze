@@ -40,7 +40,7 @@
 - 33rd SOPT App-Jam `대상`, Lead Android Developer
 - 앱스토어 여행 분야 `114등` 달성
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, ...`
+- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
 - [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 <br>
