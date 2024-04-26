@@ -50,3 +50,4 @@
 - 등록된 유저 수 총 `80,000명` 의 서비스, Android Developer
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
 - [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
+
