@@ -17,6 +17,7 @@
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
+> 친구들과 주고 받으며 마음을 전하는 익명쪽지 SNS 서비스
 - 32nd SOPT App-Jam `대상`, Android Developer
 - 다운로드 수 총 `23,000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
@@ -30,6 +31,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
 <br>
 
+> 걱정을 기록하고, 돌아보며 덜어주는 걱정 아카이빙 서비스
 - 33rd SOPT 16-hour Hackathon, Lead Android Developer
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
@@ -37,6 +39,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
 <br>
 
+> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스
 - 33rd SOPT App-Jam `대상`, Lead Android Developer
 - 앱스토어 여행 분야 `114등` 달성
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
@@ -47,6 +50,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/5ca78411-23d0-4889-bc1d-c4a4076fd279" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
 
+> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스
 - 등록된 유저 수 총 `80,000명` 의 서비스, Android Developer
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
 - [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
