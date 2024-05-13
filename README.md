@@ -51,6 +51,13 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
 <br>
 
-> 걱정을 기록하고, 돌아보며 덜어주는 걱정 아카이빙 서비스
+> 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스
 - 33rd SOPT 16-hour Hackathon, Lead Android Developer
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
+<br>
+
+> 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스
+- [Github](https://github.com/Genti2024/Genti-Android)
