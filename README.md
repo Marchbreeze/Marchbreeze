@@ -28,14 +28,6 @@
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
-<br>
-
-> 걱정을 기록하고, 돌아보며 덜어주는 걱정 아카이빙 서비스
-- 33rd SOPT 16-hour Hackathon, Lead Android Developer
-- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
-
-<br>
 &#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
 <br>
 
@@ -55,3 +47,10 @@
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
 - [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
 
+<br>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
+<br>
+
+> 걱정을 기록하고, 돌아보며 덜어주는 걱정 아카이빙 서비스
+- 33rd SOPT 16-hour Hackathon, Lead Android Developer
+- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
