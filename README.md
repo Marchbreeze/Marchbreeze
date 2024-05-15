@@ -19,7 +19,7 @@
 
 > 친구들과 주고 받으며 마음을 전하는 익명쪽지 SNS 서비스
 - Android Developer(총 4명) & Marketer (Co-founder)
-- 32nd SOPT App-Jam `대상`
+- 32nd SOPT App-Jam `대상` 수상
 - 다운로드 수 총 `23,000회`, 앱스토어 소셜 분야 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - 사업자등록 이후, 인앱결제 구현 등을 통해 직접 부딪히며 창업을 진행하는 경험 ✔️
@@ -34,7 +34,7 @@
 
 > 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스
 - Lead Android Developer(총 4명)
-- 33rd SOPT App-Jam `대상`
+- 33rd SOPT App-Jam `대상` 수상
 - 앱스토어 여행 분야 `114등` 달성
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
