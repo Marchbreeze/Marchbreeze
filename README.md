@@ -59,6 +59,7 @@
 - 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링을 진행 후 스토어 릴리즈까지 진행
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
+
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
 <br>
