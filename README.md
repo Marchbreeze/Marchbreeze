@@ -68,4 +68,5 @@
 - Android Developer(단독)
 - 2024 KU 고려대 창업동아리 `아이디어 트랙` 선정
 - 2024 KUCT 딥테크 스타트업 프론티어 선발전 `도전상` 수상
+- 2024 동국대학교 아이디어 사업화 지원사업 `선발`
 - [Github](https://github.com/Genti2024/Genti-Android)
