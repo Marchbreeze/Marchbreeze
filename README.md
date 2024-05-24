@@ -56,7 +56,7 @@
 
 > 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스
 - Lead Android Developer(총 4명)
-- 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링을 진행 후 스토어 릴리즈까지 진행
+- 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
 
