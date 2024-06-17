@@ -17,7 +17,7 @@
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
-> 친구들과 주고 받으며 마음을 전하는 익명쪽지 SNS 서비스
+> 친구들과 주고 받으며 마음을 전하는 익명쪽지 SNS 서비스 (2023.07 ~ )
 - Android Developer(총 4명) & Marketer (Co-founder)
 - 32nd SOPT App-Jam `대상` 수상
 - 다운로드 수 총 `28,000회`, 앱스토어 소셜 분야 `15등` 달성
@@ -32,7 +32,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
 <br>
 
-> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스
+> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스 (2023.12 ~ 2024.02)
 - Lead Android Developer(총 4명)
 - 33rd SOPT App-Jam `대상` 수상
 - 앱스토어 여행 분야 `114등` 달성
@@ -44,7 +44,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/5ca78411-23d0-4889-bc1d-c4a4076fd279" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
 
-> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스
+> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04 ~ )
 - Android Developer(총 2명)
 - 등록된 유저 수 총 `80,000명` 의 서비스
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
@@ -54,7 +54,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
 <br>
 
-> 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스
+> 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
 - Lead Android Developer(총 4명)
 - 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
@@ -64,7 +64,7 @@
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
 <br>
 
-> 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스
+> 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스 (2024.05 ~ )
 - Android Developer(단독)
 - 2024 정주영 창업경진대회 (아산나눔재단) `사업실행팀` 선발
 - 2024 고려대 KU 창업동아리 `아이디어 트랙` 선정
