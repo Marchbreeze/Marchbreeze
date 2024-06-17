@@ -41,7 +41,7 @@
 - [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/5ca78411-23d0-4889-bc1d-c4a4076fd279" width=50 /> &#160;&#160;  Santa Manitto <br/>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/39943990-f2db-482f-bd24-9006a06c9861" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
 
 > 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04 ~ )
@@ -58,7 +58,6 @@
 - Lead Android Developer(총 4명)
 - 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
-
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
