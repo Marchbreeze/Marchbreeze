@@ -41,25 +41,6 @@
 - [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/39943990-f2db-482f-bd24-9006a06c9861" width=50 /> &#160;&#160;  Santa Manitto <br/>
-<br>
-
-> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04 ~ )
-- Android Developer(총 2명)
-- 등록된 유저 수 총 `80,000명` 의 서비스
-- 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
-- [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
-
-<br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
-<br>
-
-> 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
-- Lead Android Developer(총 4명)
-- 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
-- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
-
-<br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
 <br>
 
@@ -82,4 +63,23 @@
 - 2024 고려대 KU 창업동아리 `아이디어 트랙` 선정
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/Orange-Co/DDANZI_Android)
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/39943990-f2db-482f-bd24-9006a06c9861" width=50 /> &#160;&#160;  Santa Manitto <br/>
+<br>
+
+> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04)
+- Android Developer(총 2명)
+- 등록된 유저 수 총 `80,000명` 의 서비스
+- 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
+- [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
+<br>
+
+> 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
+- Lead Android Developer(총 4명)
+- 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
+- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
