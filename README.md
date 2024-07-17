@@ -17,7 +17,7 @@
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
-> 친구들과 주고 받으며 마음을 전하는 익명쪽지 SNS 서비스 (2023.07 ~ )
+> 친구들과 주고 받으며 마음을 전하는 익명 쪽지 게이미피케이션 SNS 서비스 (2023.07 ~ 2024.08)
 - Android Developer(총 4명) & Marketer (Co-founder)
 - 32nd SOPT App-Jam `대상` 수상
 - 다운로드 수 총 `28,000회`, 앱스토어 소셜 분야 `15등` 달성
