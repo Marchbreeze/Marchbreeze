@@ -13,7 +13,7 @@
 
 <br/>
 
-## ✈️   4 Released Apps
+## ✈️   4 (+3) Released Apps
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
@@ -28,6 +28,7 @@
 - Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Admob, CI/CD ...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
+
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
 <br>
@@ -39,6 +40,7 @@
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
 - [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
+
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/6762ad73-0b8c-4547-8909-2931485ff5b7" width=50 /> &#160;&#160; Genti <br/>
@@ -54,6 +56,7 @@
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/Genti2024/Genti-Android)
 
+
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/089b00ff-1805-4492-9d2d-f2545bc55fb6" width=50 /> &#160;&#160; 딴지 <br/>
 <br>
@@ -64,6 +67,18 @@
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/Orange-Co/DDANZI_Android)
 
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/f8f14523-8ea4-4221-b91d-aa8dabf22bc9" width=50 /> &#160;&#160;  STEMPO <br/>
+<br>
+
+> 청각 자극을 통한 뇌성마비 환자 보행 패턴 개선 서비스 (2024.07 ~ )
+- Android Developer(총 2명)
+- 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `1차 선발` 후 개발 진행 중
+- Architecture : `Multi-Module, Clean Architecture + MVVM`
+- [Github](https://github.com/KKKK-Stempo/stempo-android)
+
+  
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/39943990-f2db-482f-bd24-9006a06c9861" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
@@ -73,6 +88,7 @@
 - 등록된 유저 수 총 `80,000명` 의 서비스
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
 - [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
+
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/b7e3d430-250e-4e2f-b40f-c505e4a1ad60" width=50 /> &#160;&#160; DO WOR:RE <br/>
