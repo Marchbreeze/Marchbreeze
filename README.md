@@ -20,26 +20,13 @@
 > 친구들과 주고 받으며 마음을 전하는 익명 쪽지 게이미피케이션 SNS 서비스 (2023.07 ~ 2024.08)
 - Android Developer(총 4명) & Marketer (Co-founder)
 - 32nd SOPT App-Jam `대상` 수상
-- 다운로드 수 총 `28,000회`, 앱스토어 소셜 분야 `15등` 달성
+- 다운로드 수 총 `30,000회`, 앱스토어 소셜 분야 최대 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - 사업자등록 이후, 인앱결제 구현 등을 통해 직접 부딪히며 창업을 진행하는 경험 ✔️
 - 앰플리튜드 분석, VoC 등을 통해 유저의 반응을 확인하며 유저 친화적으로 개발하는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Admob, CI/CD ...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
-
-
-<br>
-&#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
-<br>
-
-> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스 (2023.12 ~ 2024.02)
-- Lead Android Developer(총 4명)
-- 33rd SOPT App-Jam `대상` 수상
-- 앱스토어 여행 분야 `114등` 달성
-- Architecture : `Multi-Module, Clean Architecture + MVVM`
-- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
-- [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 
 <br>
@@ -66,6 +53,19 @@
 - 2024 고려대 KU 창업동아리 `아이디어 트랙` 선정
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/Orange-Co/DDANZI_Android)
+
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
+<br>
+
+> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스 (2023.12 ~ 2024.02)
+- Lead Android Developer(총 4명)
+- 33rd SOPT App-Jam `대상` 수상
+- 앱스토어 여행 분야 `114등` 달성
+- Architecture : `Multi-Module, Clean Architecture + MVVM`
+- Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
+- [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 
 <br>
