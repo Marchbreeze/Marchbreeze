@@ -26,7 +26,7 @@
 - 앰플리튜드 분석, VoC 등을 통해 유저의 반응을 확인하며 유저 친화적으로 개발하는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Admob, CI/CD ...`
-- [Github](https://github.com/team-yello/YELLO-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
+- [Github](https://github.com/team-yello/YELLO-Android) & [Dev Archive](https://marchbreeze.notion.site/YELL-O-a47c980d99de434e856e92670f1782e1?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
 
 <br>
@@ -41,7 +41,7 @@
 - 2024 KUCT 딥테크 스타트업 프론티어 선발전 `도전상` 수상
 - 2024 K-Digital Challenge AI 스타트업 창업 경진대회 `장려상` 수상
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- [Github](https://github.com/Genti2024/Genti-Android)
+- [Github](https://github.com/Genti2024/Genti-Android) & [Dev Archive](https://marchbreeze.notion.site/Genti-736132793a064cf18c283c3127cf0bdb?pvs=4)
 
 
 <br>
@@ -52,7 +52,7 @@
 - Android Developer(단독)
 - 2024 고려대 KU 창업동아리 `아이디어 트랙` 선정
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- [Github](https://github.com/Orange-Co/DDANZI_Android)
+- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4)
 
 
 <br>
@@ -65,7 +65,7 @@
 - 앱스토어 여행 분야 `114등` 달성
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Kakao SDK, CI, ...`
-- [Github](https://github.com/Team-Going/Going-Android) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
+- [Github](https://github.com/Team-Going/Going-Android) & [Dev Archive](https://marchbreeze.notion.site/doorip-596b893db1f64776b8a83e58e01431a5?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
 
 
 <br>
@@ -76,7 +76,7 @@
 - Android Developer(총 2명)
 - 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `1차 선발` 후 개발 진행 중
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- [Github](https://github.com/KKKK-Stempo/stempo-android)
+- [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4)
 
   
 <br>
@@ -87,7 +87,7 @@
 - Android Developer(총 2명)
 - 등록된 유저 수 총 `80,000명` 의 서비스
 - 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행한 경험 ✔️
-- [Github](https://github.com/manito-project/manitto-android) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
+- [Github](https://github.com/manito-project/manitto-android) & [Dev Archive](https://marchbreeze.notion.site/Santa-Manitto-f1d83d8a3b804bd58f355449b223b0de?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
 
 
 <br>
@@ -97,5 +97,18 @@
 > 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
 - Lead Android Developer(총 4명)
 - 33rd SOPT 16-hour Hackathon 참가 이후, 구현된 기능들에 한하여 리팩토링 후 스토어 릴리즈까지 진행한 경험 ✔️
-- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
+- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Dev Archive](https://marchbreeze.notion.site/SOPT-33-ab462fbfd1bc4ed98d8857859b1d667e?pvs=4) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
+<br/>
+
+## ✈️   Study & Etc.
+
+- SOPT Android Study : [Notion](https://marchbreeze.notion.site/SOPT-32-e56e3b4f93c24a5292ebe95c3d2fd12c?pvs=4)
+- Jetpack Compose Study : [Notion](https://marchbreeze.notion.site/ce5b2bb883124ef2847360795624be27?pvs=4) & [Github](https://github.com/Marchbreeze/Compose-Study)
+- Effective Kotlin Study : [Notion](https://marchbreeze.notion.site/9d30f2b6fc024ee394b99b325987b8a8?pvs=4) & [Github](https://github.com/Pohanghang-Compose)
+- Algorithm Study : [Notion](https://marchbreeze.notion.site/Python-_-fa4a1841fb7844cd9f69c6df854d5fb8?pvs=4) & [Github](https://github.com/Marchbreeze/Algorithm-Practice)
+- Data Science Study : [Notion](https://marchbreeze.notion.site/Python-_-c2be975ced91401dbdd6176dbf250564?pvs=4) & [Github](https://github.com/Marchbreeze/KU-Data-Science)
+- Machine Learning Study : [Notion](https://marchbreeze.notion.site/Python-_-10-21c617f5d6d14288aa6127f83298e05b?pvs=4)
+- SQL & ERD Study : [Notion](https://marchbreeze.notion.site/SQL-_-dac36d09625242d8b7cd25aa7bb03753?pvs=4)
+- KUIAI 산업인공지능 해커톤 Instagram Crawling : [Notion](https://marchbreeze.notion.site/Python-_-3-KUIAI-23c9e4a5e3384b31b2fc39b80af0d896?pvs=4)
+- 교육 공공데이터 분석·활용대회 Data Analysis : [Notion](https://marchbreeze.notion.site/Python-_-6-162e2b551e2c498b8873b835c7dcf793?pvs=4) & [Github](https://github.com/Marchbreeze/Edu-Public-Data)
