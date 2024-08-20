@@ -13,7 +13,7 @@
 
 <br/>
 
-## ✈️   4 (+3) Released Apps
+## ✈️   5 (+2) Released Apps
 
 &#160;&#160;&#160;<img src="https://github.com/team-yello/YELLO-Android/assets/70993562/96e4be19-e35f-479d-8354-8ef83f005b76" width=50 /> &#160;&#160; YELL:O <br/>
 
@@ -41,11 +41,11 @@
 - 2024 KUCT 딥테크 스타트업 프론티어 선발전 `도전상` 수상
 - 2024 K-Digital Challenge AI 스타트업 창업 경진대회 `장려상` 수상
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
-- [Github](https://github.com/Genti2024/Genti-Android) & [Dev Archive](https://marchbreeze.notion.site/Genti-736132793a064cf18c283c3127cf0bdb?pvs=4)
+- [Github](https://github.com/Genti2024/Genti-Android) & [Dev Archive](https://marchbreeze.notion.site/Genti-736132793a064cf18c283c3127cf0bdb?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=kr.genti.android)
 
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/Marchbreeze/Marchbreeze/assets/97405341/089b00ff-1805-4492-9d2d-f2545bc55fb6" width=50 /> &#160;&#160; 딴지 <br/>
+&#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/458a32df-02e2-4d10-a5fa-ed0f49d8ff96" width=50 /> &#160;&#160; 딴지 <br/>
 <br>
 
 > 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ )
@@ -53,7 +53,6 @@
 - 2024 고려대 KU 창업동아리 `아이디어 트랙` 선정
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4)
-
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/Team-Going/Going-Android/assets/97405341/9d8f8e2b-f3f6-4773-813b-49d3a9a86432" width=50 /> &#160;&#160;  doorip <br/>
