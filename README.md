@@ -64,7 +64,7 @@
 
 > 청각 자극을 통한 뇌성마비 환자 보행 패턴 개선 서비스 (2024.07 ~ )
 - 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `1차 선발` 후 개발 진행 중
-- Wear OS 모듈을 활용한 갤럭시 워치 앱을 개발하며, Data Layer API를 활용하여 워치와 스마트폰 앱 간의 데이터 동기화를 효율적으로 처리하는 경험 ✔️
+- Wear OS 모듈을 활용한 갤럭시 워치 앱을 개발하며, Data Layer API를 활용하여 워치와 앱 간의 데이터 동기화를 효율적으로 처리하는 경험 ✔️
 - 서버와의 통신을 통해 WAV 형식의 음성 파일을 기기에 저장하고, MediaPlayer를 활용하여 상황에 맞는 리듬을 재생하는 기능을 구현하는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4)
