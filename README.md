@@ -23,7 +23,7 @@
 - 1년동안 0원으로 다운로드 수 총 `30,000회`, 앱스토어 소셜 분야 최대 `15등` 달성
 - 마케팅 비용 없이, 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
 - 앰플리튜드 분석, VoC 등을 통해 유저의 반응을 확인하며 유저 친화적으로 개발하는 경험 ✔️
-- In-app Purchase의 상품과 정기 결제, 그리고 Google Admob의 배너형, 전면형, 보상형 광고를 직접 구현하여, 앱의 수익 모델을 강화하는 경험 ✔️
+- In-app Purchase의 상품과 정기 결제, 그리고 Google Admob의 전면형, 보상형 광고를 직접 구현하여, 앱의 수익 모델을 강화하는 경험 ✔️
 - Architecture : `Multi-Module, Clean Architecture + MVVM`
 - Tech Stack : `Hilt, Coroutine & Flow, Paging3, Kakao SDK, Amplitude, FCM, In-app Purchase, Admob, CI/CD ...`
 - [Github](https://github.com/team-yello/YELLO-Android) & [Dev Archive](https://marchbreeze.notion.site/YELL-O-a47c980d99de434e856e92670f1782e1?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
