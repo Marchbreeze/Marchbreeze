@@ -104,7 +104,7 @@
 
 - SOPT Android Study : [Notion](https://marchbreeze.notion.site/SOPT-32-e56e3b4f93c24a5292ebe95c3d2fd12c?pvs=4)
 - Jetpack Compose Study : [Notion](https://marchbreeze.notion.site/ce5b2bb883124ef2847360795624be27?pvs=4) & [Github](https://github.com/Marchbreeze/Compose-Study)
-- Effective Kotlin Study : [Notion](https://marchbreeze.notion.site/9d30f2b6fc024ee394b99b325987b8a8?pvs=4) & [Github](https://github.com/Pohanghang-Compose)
+- Effective Kotlin Study : [Notion](https://marchbreeze.notion.site/9d30f2b6fc024ee394b99b325987b8a8?pvs=4) & [Github](https://github.com/Pohanghang-Compose/EffectiveKotlin)
 - Algorithm Study : [Notion](https://marchbreeze.notion.site/Python-_-fa4a1841fb7844cd9f69c6df854d5fb8?pvs=4) & [Github](https://github.com/Marchbreeze/Algorithm-Practice)
 - Data Science Study : [Notion](https://marchbreeze.notion.site/Python-_-c2be975ced91401dbdd6176dbf250564?pvs=4) & [Github](https://github.com/Marchbreeze/KU-Data-Science)
 - Machine Learning Study : [Notion](https://marchbreeze.notion.site/Python-_-10-21c617f5d6d14288aa6127f83298e05b?pvs=4)
