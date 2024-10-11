@@ -93,14 +93,3 @@
 
 <br/>
 
-## ✈️   Study & Etc.
-
-- SOPT Android Study : [Notion](https://marchbreeze.notion.site/SOPT-32-e56e3b4f93c24a5292ebe95c3d2fd12c?pvs=4)
-- Jetpack Compose Study : [Notion](https://marchbreeze.notion.site/ce5b2bb883124ef2847360795624be27?pvs=4) & [Github](https://github.com/Marchbreeze/Compose-Study)
-- Effective Kotlin Study : [Notion](https://marchbreeze.notion.site/9d30f2b6fc024ee394b99b325987b8a8?pvs=4) & [Github](https://github.com/Pohanghang-Compose/EffectiveKotlin)
-- Algorithm Study : [Notion](https://marchbreeze.notion.site/Python-_-fa4a1841fb7844cd9f69c6df854d5fb8?pvs=4) & [Github](https://github.com/Marchbreeze/Algorithm-Practice)
-- Data Science Study : [Notion](https://marchbreeze.notion.site/Python-_-c2be975ced91401dbdd6176dbf250564?pvs=4) & [Github](https://github.com/Marchbreeze/KU-Data-Science)
-- Machine Learning Study : [Notion](https://marchbreeze.notion.site/Python-_-10-21c617f5d6d14288aa6127f83298e05b?pvs=4)
-- SQL & ERD Study : [Notion](https://marchbreeze.notion.site/SQL-_-dac36d09625242d8b7cd25aa7bb03753?pvs=4)
-- KUIAI 산업인공지능 해커톤 Instagram Crawling : [Notion](https://marchbreeze.notion.site/Python-_-3-KUIAI-23c9e4a5e3384b31b2fc39b80af0d896?pvs=4)
-- 교육 공공데이터 분석·활용대회 Data Analysis : [Notion](https://marchbreeze.notion.site/Python-_-6-162e2b551e2c498b8873b835c7dcf793?pvs=4) & [Github](https://github.com/Marchbreeze/Edu-Public-Data)
