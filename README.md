@@ -91,6 +91,8 @@
 > 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
 - [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Dev Archive](https://marchbreeze.notion.site/SOPT-33-ab462fbfd1bc4ed98d8857859b1d667e?pvs=4) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
 
-<br/>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marchbreeze&theme=onedark&title=-Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marchbreeze&theme=onedark&title=-Stars,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
