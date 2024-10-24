@@ -13,7 +13,7 @@
 
 <br/>
 
-## ✈️   6 (+1) Released Apps
+## ✈️   Released Apps
 
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/092defc7-c976-497f-b9ab-b86c3cb3cb19" width=50 /> &#160;&#160; YELL:O <br/>
 
