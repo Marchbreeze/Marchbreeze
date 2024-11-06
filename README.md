@@ -48,10 +48,10 @@
 - 40개가 넘는 API, 구매와 판매 로직 등 대형 프로젝트를 단독으로 모두 구현해내는 경험 ✔️
 - feature 모듈을 세분화한 멀티 모듈 구조로 migrate하여, 모듈 간 의존성 분리를 강화시킨 경험 ✔️
 - Kakao 도로명주소 조회 서비스를 구현하기 위해 html asset과 webView를 활용해 도입하는 경험 ✔️
-- PG사 연 후, Portone의 iamport SDK의 휴대폰 본인인증 기능, 결제 기능을 구현하는 경험 ✔️
+- PG사 연동 후, Portone의 iamport SDK의 휴대폰 본인인증 기능, 결제 기능을 구현하는 경험 ✔️
 - MLKit를 활용한 OCR 기능으로 유저가 스크린샷만으로 판매하고자하는 상품을 찾을 수 있도록 기능을 구현하는 경험 ✔️
 - TokenInterceptor를 분기처리하여 유저가 비로그인 상황과 로그인 상황에서 사용 가능한 기능을 분리하는 경험 ✔️
-- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store(beta)](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
+- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
 
 
 <br>
@@ -59,7 +59,8 @@
 <br>
 
 > 청각 자극을 통한 뇌성마비 환자 보행 패턴 개선 서비스 (2024.07 ~ )
-- 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `1차 선발` 후 개발 진행 중
+- 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `보건복지부장관상` 수상
+- 수상 이후 강서뇌성마비복지관과 협업하여 실증 진행
 - Wear OS 모듈을 활용한 갤럭시 워치 앱을 개발하며, Data Layer API를 활용하여 데이터 동기화를 효율적으로 처리하는 경험 ✔️
 - MediaPlayer와 SoundPool을 병렬적으로 활용하여 상황에 맞는 리듬을 재생하는 기능을 구현하는 경험 ✔️
 - [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4)
