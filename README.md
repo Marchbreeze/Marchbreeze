@@ -15,10 +15,10 @@
 
 ## 🏆   Awards
 
-- 2023 SOPT 32기 장기해커톤 App-Jam `대상` - 앱 ‘Yell:o’ 안드로이드 개발 [(link)](https://youtu.be/AARmrJTKUWM?si=QDWmjc_qhh6E6SlR)
-- 2023 SOPT 33기 장기해커톤 App-Jam `대상` - 앱 ‘doorip’ 안드로이드 개발 [(link)](https://youtu.be/5SPFSSvrHy8?si=1tWZ-6KPaNzS2RgD)
-- 2024 장애인 분야 해커톤 대회 ‘장애플러스기술’ `보건복지부장관상` - 앱 ‘Stempo’ 안드로이드 개발  [(link)](https://www.welfarenews.net/news/articleView.html?idxno=105213)
-- 2024 정주영 창업경진대회 (아산나눔재단) `본상(Top30)` - 앱 ‘Genti’ 안드로이드 개발 [(link)](https://www.besuccess.com/%ec%95%84%ec%82%b0%eb%82%98%eb%88%94%ec%9e%ac%eb%8b%a8-13%ed%9a%8c-%ec%a0%95%ec%a3%bc%ec%98%81-%ec%b0%bd%ec%97%85%ea%b2%bd%ec%a7%84%eb%8c%80%ed%9a%8c-30%ea%b0%9c%ed%8c%80-%ec%84%a0/)
+- 2023 SOPT 32기 장기해커톤 App-Jam `대상` - 앱 Yell:o 안드로이드 개발 [(link)](https://youtu.be/AARmrJTKUWM?si=QDWmjc_qhh6E6SlR)
+- 2023 SOPT 33기 장기해커톤 App-Jam `대상` - 앱 doorip 안드로이드 개발 [(link)](https://youtu.be/5SPFSSvrHy8?si=1tWZ-6KPaNzS2RgD)
+- 2024 장애인 분야 해커톤 대회 ‘장애플러스기술’ `보건복지부장관상` - 앱 Stempo 안드로이드 개발  [(link)](https://www.welfarenews.net/news/articleView.html?idxno=105213)
+- 2024 정주영 창업경진대회 (아산나눔재단) `본상(Top30)` - 앱 Genti 안드로이드 개발 [(link)](https://www.besuccess.com/%ec%95%84%ec%82%b0%eb%82%98%eb%88%94%ec%9e%ac%eb%8b%a8-13%ed%9a%8c-%ec%a0%95%ec%a3%bc%ec%98%81-%ec%b0%bd%ec%97%85%ea%b2%bd%ec%a7%84%eb%8c%80%ed%9a%8c-30%ea%b0%9c%ed%8c%80-%ec%84%a0/)
 
 <br/>
 
