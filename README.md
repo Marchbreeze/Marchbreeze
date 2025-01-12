@@ -7,9 +7,7 @@
 
 ## ✈️   History
 - 🐯 고려대학교 산업경영공학부 제37대 학생회장
-- 🐯 고려대학교 공과대학 제56대 학생회 교육진로국장
-- 🧑🏻‍💻 SOPT 32기 안드로이드 파트 & 운영팀 수료
-- 🧑🏻‍💻 SOPT 33기 안드로이드 파트 & 운영팀 수료
+- 🧑🏻‍💻 SOPT 32기, 33기 안드로이드 파트 & 운영팀 수료
 
 <br/>
 
@@ -26,7 +24,7 @@
 
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/092defc7-c976-497f-b9ab-b86c3cb3cb19" width=50 /> &#160;&#160; YELL:O <br/>
 
-> 친구들과 주고 받으며 마음을 전하는 익명 쪽지 게이미피케이션 SNS 서비스 (2023.07 ~ 2024.08)
+> 친구들과 투표를 통해 익명 쪽지를 주고 받으며 마음을 전하는 게이미피케이션 SNS 서비스 (2023.07 ~ 2024.08)
 - 32nd SOPT App-Jam `대상` 수상
 - 1년 간 다운로드 수 총 `30,000회`, 앱스토어 소셜 분야 최대 `15등` 달성
 - Co-founder로서 개발뿐만이 아닌 마케터로 활용하며, 마케팅 비용 없이 다양한 방법으로 유저들을 바이럴로 모아오는 경험 ✔️
@@ -52,13 +50,10 @@
 <br>
 
 > 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ 2024.12) (Android 단독 개발)
-- 40개가 넘는 API, 구매와 판매 로직 등 대형 프로젝트를 단독으로 모두 구현해내는 경험 ✔️
 - PG사 연동 후, Portone의 iamport SDK의 휴대폰 본인인증 기능, 결제 기능을 구현하는 경험 ✔️
 - feature 모듈을 세분화한 멀티 모듈 구조로 migrate하여, 모듈 간 의존성 분리를 강화시킨 경험 ✔️
-- 기존 Repository Pattern에서 UseCase Pattern을 추가로 도입하여 비즈니스 로직의 구조와 설계를 개선한 경험 ✔️
 - Kakao 도로명주소 조회 서비스를 구현하기 위해 html asset과 webView, assetLoader를 활용해 도입하는 경험 ✔️
 - MLKit를 활용한 OCR 기능으로 유저가 스크린샷만으로 판매하고자하는 상품을 찾을 수 있도록 기능을 구현하는 경험 ✔️
-- TokenInterceptor를 분기처리하여 유저가 비로그인 상황과 로그인 상황에서 사용 가능한 기능을 분리하는 경험 ✔️
 - [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
 
 
