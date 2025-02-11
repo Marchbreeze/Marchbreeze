@@ -65,6 +65,7 @@
 - 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `보건복지부장관상` 수상 & 수상 이후 강서뇌성마비복지관과 협업하여 실증 진행
 - Wear OS 모듈을 활용한 갤럭시 워치 앱을 개발하며, Data Layer API를 활용하여 데이터 동기화를 효율적으로 처리하는 경험 ✔️
 - MediaPlayer와 SoundPool을 병렬적으로 활용하여 상황에 맞는 리듬을 재생하는 기능을 구현하는 경험 ✔️
+- XML로 구현했던 뷰에서 Jetpack Compose + MVI로 migrate한 경험 ✔️
 - [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4)
 
 
