@@ -92,9 +92,9 @@
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/409908f2-5f46-471c-aeb2-7ba0c4eca625" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
 
-> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04)
+> 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스 (2024.04 ~ )
 - 등록된 유저 수 총 `80,000명` 의 서비스
-- 개발된 지 4년이 지난 앱에 합류해 기존 코드를 파악하며 유지보수 및 스프린트를 진행
+- ✔️ 개발된 지 4년이 지난 앱에 새롭게 합류해 레거시 코드 유지보수 및 이후 스프린트 진행
 - [Github](https://github.com/manito-project/manitto-android) & [Dev Archive](https://marchbreeze.notion.site/Santa-Manitto-f1d83d8a3b804bd58f355449b223b0de?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
 
 <br>
