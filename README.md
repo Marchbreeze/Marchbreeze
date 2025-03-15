@@ -59,7 +59,7 @@
 > 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ 2024.12) (Android 단독 개발)
 - ✔️ PG사 연동을 활용한 휴대폰 본인인증 기능 및 결제 기능 구현
 - ✔️ feature 모듈 기능별 세분화 및 Usecase Pattern 도입을 통한 비즈니스 로직 구조 개선
-- ✔️ WebViewAssetLoader와 Android Bridge를 활용한 도로명 주소 조회 서비스 *ebView 구현
+- ✔️ WebViewAssetLoader와 Android Bridge를 활용한 도로명 주소 조회 서비스 WebView 구현
 - ✔️ TokenInterceptor 로직을 통한 로그인 / 비로그인 상황 분기 처리 구현
 - ✔️ 상품 판매 과정의 스크린샷 이미지 OCR 기능 구현 및 Google GCS signed Url을 활용한 클라우드 업로드
 - ✔️ 40개가 넘는 API, 구매와 판매 로직 등 대형 프로젝트의 단독 구현 경험
