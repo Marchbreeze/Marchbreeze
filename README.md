@@ -63,7 +63,7 @@
 - ✔️ TokenInterceptor 로직을 통한 로그인 / 비로그인 상황 분기 처리 구현
 - ✔️ 상품 판매 과정의 스크린샷 이미지 OCR 기능 구현 및 Google GCS signed Url을 활용한 클라우드 업로드
 - ✔️ 40개가 넘는 API, 구매와 판매 로직 등 대형 프로젝트의 단독 구현 경험
-- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
+- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
 
 
 <br>
