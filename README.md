@@ -80,15 +80,6 @@
 
 
 <br>
-&#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/cd8ac3d5-11e4-4882-8b16-41871ada65ea" width=50 /> &#160;&#160;  doorip <br/>
-<br>
-
-> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스 (2023.12 ~ 2024.02)
-- 33rd SOPT App-Jam `대상` 수상
-- [Github](https://github.com/Team-Going/Going-Android) & [Dev Archive](https://marchbreeze.notion.site/doorip-596b893db1f64776b8a83e58e01431a5?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
-
-  
-<br>
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/409908f2-5f46-471c-aeb2-7ba0c4eca625" width=50 /> &#160;&#160;  Santa Manitto <br/>
 <br>
 
@@ -96,6 +87,16 @@
 - 등록된 유저 수 총 `80,000명` 의 서비스
 - ✔️ 개발된 지 4년이 지난 앱에 새롭게 합류해 레거시 코드 유지보수 및 이후 스프린트 진행
 - [Github](https://github.com/manito-project/manitto-android) & [Dev Archive](https://marchbreeze.notion.site/Santa-Manitto-f1d83d8a3b804bd58f355449b223b0de?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)
+
+
+<br>
+&#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/cd8ac3d5-11e4-4882-8b16-41871ada65ea" width=50 /> &#160;&#160;  doorip <br/>
+<br>
+
+> 서로를 이해하면서 완성하는 우리의 여행 투두리스트 서비스 (2023.12 ~ 2024.02)
+- 33rd SOPT App-Jam `대상` 수상
+- [Github](https://github.com/Team-Going/Going-Android) & [Dev Archive](https://marchbreeze.notion.site/doorip-596b893db1f64776b8a83e58e01431a5?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.going.doorip)
+
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/d8afa6f3-dce0-4e05-964c-3daba4f68793" width=50 /> &#160;&#160; DO WOR:RE <br/>
