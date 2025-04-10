@@ -26,7 +26,7 @@
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/736da81c-36d0-4f0e-abc6-bbc14932dd6c" width=50 /> &#160;&#160; Genti <br/>
 <br>
 
-> 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스 (2024.05 ~ 2024.12) (Android 단독 개발)
+> 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스 (2024.06 ~ 2024.12) (Android 단독 개발)
  
 - 2024 `정주영 창업경진대회 (아산나눔재단)` 사업실행팀 선발
 - ✔️ 기존 MVVM + XML (viewBinding · dataBinding) 구조에서 MVI + Compose로 마이그레이션
@@ -41,7 +41,7 @@
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/092defc7-c976-497f-b9ab-b86c3cb3cb19" width=50 /> &#160;&#160; YELL:O <br/>
 <br>
 
-> 친구들과 투표를 통해 익명 쪽지를 주고 받으며 마음을 전하는 게이미피케이션 SNS 서비스 (2023.07 ~ 2024.08)
+> 친구들과 투표를 통해 익명 쪽지를 주고 받으며 마음을 전하는 게이미피케이션 SNS 서비스 (2023.06 ~ 2024.08)
 
 - 32nd SOPT App-Jam `대상` 수상
 - 다운로드 수 총 `30,000회`, 앱스토어 소셜 분야 최대 `15등` 달성
@@ -56,7 +56,7 @@
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/e34c705d-40b7-4ea6-bc3a-f2a5283aa295" width=50 /> &#160;&#160; 딴지 <br/>
 <br>
 
-> 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ 2024.12) (Android 단독 개발)
+> 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ 2024.11) (Android 단독 개발)
 - ✔️ PG사 연동을 활용한 휴대폰 본인인증 기능 및 결제 기능 구현
 - ✔️ feature 모듈 기능별 세분화 및 Usecase Pattern 도입을 통한 비즈니스 로직 구조 개선
 - ✔️ WebViewAssetLoader와 Android Bridge를 활용한 도로명 주소 조회 서비스 WebView 구현
