@@ -28,7 +28,7 @@
 > 내 마음대로 표현하는 하나뿐인 AI 사진 제작 서비스 (2024.06 ~ 2024.12) (Android 단독 개발)
  
 - 2024 `정주영 창업경진대회 (아산나눔재단)` 사업실행팀 선발
-- ✔️ 기존 MVVM + XML (viewBinding · dataBinding) 구조에서 MVI + Compose로 마이그레이션
+- ✔️ 기존 MVVM + XML 구조에서 MVI + Compose로 마이그레이션
 - ✔️ Github Actions와 Firebase App Distribution을 연계하여 자동 앱 배포 CI/CD 구축
 - ✔️ Custom Convention Plugins 적용 및 16개의 모듈 세분화 등 멀티 모듈 환경의 의존성 관리 개선
 - ✔️ AWS S3 Presigned URL을 활용한 기기의 저장공간 내 이미지 클라우드 이미지 업로드
