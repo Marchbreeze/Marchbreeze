@@ -44,7 +44,7 @@
 - 32nd SOPT App-Jam `대상` 수상
 - 다운로드 수 총 `30,000회`, 앱스토어 소셜 분야 최대 `15등` 달성
 - ✔️ 소비성 및 정기 구독 상품의 인앱 결제와, 배너형, 전면형, 보상형 Admob 광고를 통한 앱의 수익 모델 강화
-- ✔️ Amplitude와 Crashlytics를 활용한 유저 30,000명의 데이터 트래킹
+- ✔️ Amplitude와 Firebase Crashlytics를 활용한 유저 30,000명의 데이터 트래킹
 - ✔️ 애정이 담긴 프로덕트를 더 많은 사람들이 사용해볼 수 있도록, 다양한 마케팅 진행 및 데이터 트래킹을 통한 유저 지표 확인
 - [Github](https://github.com/team-yello/YELLO-Android) & [Dev Archive](https://marchbreeze.notion.site/YELL-O-a47c980d99de434e856e92670f1782e1?pvs=4) & [Play Store](https://play.google.com/store/apps/details?id=com.el.yello&hl=KR)
 
@@ -57,7 +57,7 @@
 - 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `보건복지부장관상(대상)` 수상
 - ✔️ Wear OS 모듈과 Data Layer API를 통해 걸음수를 측정하고 음악 재생 여부를 조작할 수 있는 웨어러블 앱 개발
 - ✔️ ExoPlayer와 SoundPool을 활용한 음악과 비트 동시 재생 기능 구현
-- [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4)
+- [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4) & Play Store (비공개)
 
 
 <br>
