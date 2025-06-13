@@ -1,6 +1,6 @@
 ## 🍀  Marchbreeze
 > 코드에 프로덕트에 대한 애정을 담는 개발자, 김상호입니다.  
-[about me](https://marchbreeze.notion.site/portfolio)
+[about me](https://marchbreeze.notion.site/portfolio) & [tech blog](https://marchbreeze.tistory.com/)
 
 <br/>
 
