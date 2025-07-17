@@ -57,7 +57,7 @@
 - 2024년 "장애 플러스 기술" 장애인 분야 해커톤 대회 `보건복지부장관상(대상)` 수상
 - ✔️ Wear OS 모듈과 Data Layer API를 통해 걸음수를 측정하고 음악 재생 여부를 조작할 수 있는 웨어러블 앱 개발
 - ✔️ ExoPlayer와 SoundPool을 활용한 음악과 비트 동시 재생 기능 구현
-- [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4) & Play Store (비공개)
+- [Github](https://github.com/KKKK-Stempo/stempo-android) & [Dev Archive](https://marchbreeze.notion.site/Stempo-2f11f557a6dd4deaa53a31b2ef99a153?pvs=4) & ~~Play Store~~ (비공개)
 
 
 <br>
@@ -67,8 +67,7 @@
 > 애물단지가 되기 전에, 모바일 배송상품 거래 플랫폼 서비스 (2024.06 ~ 2024.11) (Android 단독 개발)
 - ✔️ PG사 연동을 활용한 휴대폰 본인인증 기능 및 결제 기능 구현
 - ✔️ WebViewAssetLoader와 Android Bridge를 활용한 도로명 주소 조회 서비스 WebView 구현
-- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=co.orange.ddanzi)
-
+- [Github](https://github.com/Orange-Co/DDANZI_Android) & [Dev Archive](https://marchbreeze.notion.site/DDANZI-c2a9f3bde2ef47baa33325346eb2a358?pvs=4) & ~~Play Store~~ (서버중단)
 
 <br>
 &#160;&#160;&#160;<img src="https://github.com/user-attachments/assets/409908f2-5f46-471c-aeb2-7ba0c4eca625" width=50 /> &#160;&#160;  Santa Manitto <br/>
@@ -96,7 +95,7 @@
 <br>
 
 > 걱정을 기록하고 돌아보며 덜어주는, 걱정 아카이빙 서비스 (2023.09)
-- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Dev Archive](https://marchbreeze.notion.site/SOPT-33-ab462fbfd1bc4ed98d8857859b1d667e?pvs=4) & [Play Store (서버중단)](https://play.google.com/store/apps/details?id=org.sopt.doSopkathon)
+- [Github](https://github.com/DO-SOPT-SOPKATHON/Team1-Android) & [Dev Archive](https://marchbreeze.notion.site/SOPT-33-ab462fbfd1bc4ed98d8857859b1d667e?pvs=4) & ~~Play Store~~ (서버중단)
 
 
 <br>
